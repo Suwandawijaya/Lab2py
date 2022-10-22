@@ -16,26 +16,26 @@ Kelas : TI.22.B1<br>
 ## Install Python
 1. download python pada web *python.org*
 
-![download python](Sc)
+![download python](Screenshot/SS%201.png)
 
 2. buka lalu centang bagian *add python to PATH* lalu klik install now
-![install python](Screenshot/SS%201.png)
-![install python2](Screenshot/SS%202.png)
+![install python](Screenshot/SS%202.png)
+![install python2](Screenshot/SS%203.png)
 
 
 3. Instalasi Selesai, klik close
 
-![install success](Screenshot/SS%203.png)
+![install success](Screenshot/SS%204.png)
 
 
 ## Latihan 1
 * buat file latihan1.py
 
-![buat file latihan1](Screenshot//SS%204.png)
+![buat file latihan1](Screenshot//SS%205.png)
 
 * tulis kode seperti contoh
 
-![sc latihan1](Screenshot/SS%205.png)
+![sc latihan1](Screenshot/SS%206.png)
 ```python
 #menampilkan tulisan 'Hello' di layar
 print("Hello")
