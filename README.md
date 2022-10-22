@@ -39,7 +39,7 @@ Kelas : TI.22.B1<br>
 ```python
 #menampilkan tulisan 'Hello' di layar
 print("Hello")
-#menampilkan tulisan 'Saya sedang belajar python' di layar
+#menampilkan tulisan 'Saya sedang belajar python' 
 print("Saya sedang belajar python")
 ```
 * klik tombol run
